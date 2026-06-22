@@ -2,6 +2,19 @@
 
 An intelligent Retrieval-Augmented Generation (RAG) based chatbot that allows users to upload PDF documents and ask natural language questions. The application extracts content from PDFs, generates embeddings, stores them in a vector database, and uses Large Language Models (LLMs) to provide context-aware answers.
 
+## Live Demo
+
+The application is hosted and can be accessed here:
+
+[ResearchMind AI Agent](https://ashw-593ani-ai-pdf-chatbot--app-7bxpl6.streamlit.app/)
+
+## Project Demo Video
+
+Watch the complete project demonstration here:
+
+[Project Demo Video](https://drive.google.com/drive/u/3/home)
+
+
 ## Features
 
 * Upload and process PDF documents
