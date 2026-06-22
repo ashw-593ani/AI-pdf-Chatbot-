@@ -6,7 +6,7 @@ An intelligent Retrieval-Augmented Generation (RAG) based chatbot that allows us
 
 The application is hosted and can be accessed here:
 
-[ResearchMind AI Agent](https://ashw-593ani-ai-pdf-chatbot--app-7bxpl6.streamlit.app/)
+[Ai-pdf Chatbot](https://ashw-593ani-ai-pdf-chatbot--app-7bxpl6.streamlit.app/)
 
 ## Project Demo Video
 
